@@ -1,0 +1,8 @@
+development:
+  adapter: mysql
+  database: apitalk_dev
+  username: root
+  password: 
+  timeout: 5000
+  encoding: utf8
+  reconnect: true
